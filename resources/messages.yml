@@ -1,0 +1,4 @@
+start.up.message: '&fPlugin successfully started!'
+sender.add.money: '&fYou successfully added &e{amount}&f$ to &e{name}&f!'
+sender.reduce.money: '&fYou successfully reduced &e{amount}&f$ from &e{name}&f!'
+my.money: '&fYour money: &e{amount}&f$'

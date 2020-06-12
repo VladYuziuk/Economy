@@ -1,0 +1,7 @@
+---
+api: 4.0.0
+main: iAmROOT\Economy\Loader
+name: Economy
+version: '0.1'
+author: iAmROOT4008
+website: vyuziuk.me
